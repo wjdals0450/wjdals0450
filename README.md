@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> # 🌱인턴실습_크롤링 코드🌱
+
+> 일반적으로 크롤링을 할때 B4S과 Selenium을 활용하여 크롤링을 구현하는데,
+> Selenium 라이브러리 중 클릭할 수 있는 다양한 클릭 함수들이 사용되지않아 pyautogui로 마우스를 이동 후 클릭하는 형태를 구현한 크롤링 코드이다
+>
+> sel_sg_20230305는 미완성 상태이므로 참고부탁🤔
